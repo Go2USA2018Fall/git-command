@@ -11,3 +11,5 @@
 ![git add](https://www.liaoxuefeng.com/files/attachments/919020074026336/0)</br>
 **2. git commit**<br>
 ![git commit](https://www.liaoxuefeng.com/files/attachments/919020100829536/0)</br>
+**Git跟踪并管理的是修改，而非文件。**</br>
+新增了一行，这就是一个修改，删除了一行，也是一个修改，更改了某些字符，也是一个修改，删了一些又加了一些，也是一个修改，甚至创建一个新文件，也算一个修改。</br>
